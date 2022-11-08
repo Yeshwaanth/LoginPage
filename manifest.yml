@@ -1,5 +1,5 @@
 ---
 applications:
  - name: LDP-LoginPage
-   random-route: false
+   random-route: true
    memory: 128M
